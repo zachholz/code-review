@@ -36,4 +36,5 @@ For this basic project, I used:
 
 GPL, free to use. 
 
+Copyright (c) 2016 Zach Holz
  
