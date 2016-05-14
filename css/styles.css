@@ -1,0 +1,8 @@
+.jumbotron-first {
+	position: relative;
+	background: #000 url("../img/IceJumbotron.jpg") center center;
+	width: 100%;
+	height: 600px;
+	background-size: cover;
+	opacity: 0.5;
+}
