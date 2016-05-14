@@ -4,7 +4,7 @@
 
 ### By Zach Holz
 
-## This page is the code review for the first section of the evening Intro to Programming class by Epicodus. It showcases work done with pairs over the course of the first four weeks of the program. 
+This page is the code review for the first section of the evening Intro to Programming class by Epicodus. It showcases work done with pairs over the course of the first four weeks of the program. 
 
 ## To setup: 
 * Clone this repo to your heart's content
@@ -14,11 +14,11 @@ Currently, this project is hosted on a [Github page](http://zachholz.github.io/c
 
 ## Known Bugs
 
-The header has a bit of white space right below the mocassin colored border; it has something to do with the
+The header has a bit of white space right below the moccasin colored border; it has something to do with the
 
-    nav { float: left; }
+    nav ul { float: left; }
     
-rule, but I'm unsure how to fix it at the time. 
+rule, but after quite a bit of experimentation, I'm unsure how to fix it at the time. 
 
 ## Support and Contact Details
 
