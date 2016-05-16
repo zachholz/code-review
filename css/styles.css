@@ -1,128 +1,128 @@
 /* Typography */
 
 h1, h2, h3 {
-	font-family: "Futura", sans-serif;
-	margin: 0px;
-	padding: 12px;
+  font-family: "Futura", sans-serif;
+  margin: 0px;
+  padding: 12px;
 }
 
 h1 {
-	font-size: 3em;
+  font-size: 3em;
 }
 
 h2 {
-	font-size: 2em;
+  font-size: 2em;
 }
 
 h4 {
-	text-align: center;
+  text-align: center;
 }
 
 .bootstrap-callout {
-	color: red;
-	font-variant: small-caps;
+  color: red;
+  font-variant: small-caps;
 }
 
 .align-right {
-	text-align: right;
+  text-align: right;
 }
 
 /* Nav and Header */
 
 header {
-	background: #C5DCE3;
-	margin: 0px;
-	border-bottom: moccasin 8px solid;
+  background: #C5DCE3;
+  margin: 0px;
+  border-bottom: moccasin 8px solid;
   width: 100%;
   display: inline-block;
 }
 
 .name {
-	float: left;
-	margin: 0px;
-	padding-left: 20px;
-	width: 50%;
+  float: left;
+  margin: 0px;
+  padding-left: 20px;
+  width: 50%;
 }
 
 nav ul {
-	list-style: none;
-	text-decoration: none;
-	padding: 1%;
-	margin: auto;
-	float: right;
+  list-style: none;
+  text-decoration: none;
+  padding: 1%;
+  margin: auto;
+  float: right;
 }
 
 nav li {
-	display: inline-block;
+  display: inline-block;
 }
 
 nav a {
-	padding: 16px;
+  padding: 16px;
 }
 
 /* Jumbotron */
 
 .jumbotron {
-	position: relative;
-	background: #000 url("../img/IceJumbotron.jpg") center center;
-	width: 100%;
-	height: 600px;
-	background-size: cover;
+  position: relative;
+  background: #000 url("../img/IceJumbotron.jpg") center center;
+  width: 100%;
+  height: 600px;
+  background-size: cover;
 }
 
 .jumbotron.container-fluid {
-	line-height: 0;
+  line-height: 0;
 }
 
 .jumbo-text {
-	background-color: rgba(255, 255, 255, 0.8);
-	margin: auto auto;
-	text-align: center;
-	padding: 5%;
-	width: 40%;
-	height: 200px;
-	border-radius: 10%;
-	position: relative;
+  background-color: rgba(255, 255, 255, 0.8);
+  margin: auto auto;
+  text-align: center;
+  padding: 5%;
+  width: 40%;
+  height: 200px;
+  border-radius: 10%;
+  position: relative;
 }
 
 /* Portfolio Items */
 
 img {
-	max-width: 100%;
+  max-width: 100%;
 }
 
 .col-md-4, col-xs-6 {
-	margin: 15px 0px;
+  margin: 15px 0px;
 }
 
 /* About Me */
 
 #about {
-	background: moccasin;
+  background: moccasin;
 }
 
 .img-circle {
-	float: left;
-	max-width: 67%;
-	max-height: 67%;
-	padding-right: 10px;
+  float: left;
+  max-width: 67%;
+  max-height: 67%;
+  padding-right: 10px;
 }
 
 .social {
-	max-width: 40%;
-	max-height: 40%;
-	padding: 20px;
-	display: inline-block;
+  max-width: 40%;
+  max-height: 40%;
+  padding: 20px;
+  display: inline-block;
 }
 
 /* Media Queries */
 
 @media screen and (max-device-width : 667px) {
-	.jumbo-text {
-		width: 50%;
-	}
+  .jumbo-text {
+    width: 50%;
+  }
 
-	h2 {
-		font-size: 1.75em;
-	}
+  h2 {
+    font-size: 1.75em;
+  }
 }
